@@ -1,6 +1,6 @@
 microsoft
-<<<<<<< HEAD
+
 hi ad some points
-=======
+
 solved issues my report
->>>>>>> f03f6c5c20348f1832629161d18281efa89b0559
+ git changed  lot used by new branch tommorow
